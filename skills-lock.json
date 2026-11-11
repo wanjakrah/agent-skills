@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "skills": {
+    "adr-brainstorm": {
+      "source": "wanjakrah/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/adr-brainstorm/SKILL.md",
+      "computedHash": "cee285a08c9b1b97661ccf87d313bf0ac6d81a2d7081eb27788decd9ad94b031"
+    }
+  }
+}

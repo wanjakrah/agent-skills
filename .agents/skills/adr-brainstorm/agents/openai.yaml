@@ -1,0 +1,3 @@
+interface:
+  display_name: "ADR Brainstorm"
+  short_description: "Brainstorm with the user on an ADR to get it from NEW to REFINED"
