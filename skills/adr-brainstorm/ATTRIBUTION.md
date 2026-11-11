@@ -22,3 +22,7 @@ Matt Pocock's full copyright and license notice is preserved in
 license files with redistributed copies or substantial portions of this skill.
 The two notices preserve attribution under the same MIT terms; they do not
 introduce an additional license restriction or imply upstream endorsement.
+
+The template for the ADR in this skill was inspired by the following talk at Devoxx Antwerp 2026:
+
+ADRs: The Why and How by Venkat Subramaniam [https://www.youtube.com/watch?v=wzN6qq08w0U]
